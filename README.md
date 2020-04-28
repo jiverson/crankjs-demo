@@ -1,2 +1,2 @@
 # crankjs-demo
-Todo app with crankjs
+Todo app with [crankjs](https://crank.js.org/).
